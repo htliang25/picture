@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T07:23:39.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="jNvEbPJK_wnsfjQWZlzB" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-25T07:24:26.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="J_NhwpnuSJuHKWmMXYcY" version="20.6.0" type="github" pages="2">
   <diagram id="nzBmkMPrk7mMpimpwruT" name="Page-1">
     <mxGraphModel dx="942" dy="621" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -234,8 +234,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="308" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="539" y="594" />
-              <mxPoint x="539" y="308" />
+              <mxPoint x="508" y="594" />
+              <mxPoint x="508" y="308" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -263,8 +263,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="232" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="75" y="799" />
-              <mxPoint x="75" y="200" />
+              <mxPoint x="172" y="799" />
+              <mxPoint x="114" y="799" />
+              <mxPoint x="114" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -272,6 +273,9 @@
           <mxGeometry x="0.0394" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="djuxfsMayVQm3gUOIp9I-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-27" target="djuxfsMayVQm3gUOIp9I-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="djuxfsMayVQm3gUOIp9I-27" value="根据流水线划分方案&lt;br&gt;改变module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="172" y="778" width="120" height="60" as="geometry" />
