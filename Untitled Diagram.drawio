@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T08:38:57.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="jaxEYydcWJsooJAAd0cK" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-25T09:30:33.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="B9mfrHrxjz-2Jbm4DBNU" version="20.6.0" type="github" pages="2">
   <diagram id="nzBmkMPrk7mMpimpwruT" name="Page-1">
     <mxGraphModel dx="942" dy="621" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -162,7 +162,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6q84PyYSt9kQ3q8TxM9N" name="第 2 页">
-    <mxGraphModel dx="942" dy="621" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="-227" dy="621" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,123 +174,6 @@
         </mxCell>
         <mxCell id="djuxfsMayVQm3gUOIp9I-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1239" y="244" width="152" height="195" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-1" target="djuxfsMayVQm3gUOIp9I-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-1" value="接收到client端的请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="172" y="39" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-2" target="djuxfsMayVQm3gUOIp9I-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-2" value="根据server端的&lt;br&gt;设备数量，生成所有可能的设备划分策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="172" y="129" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-3" target="djuxfsMayVQm3gUOIp9I-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-16" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="djuxfsMayVQm3gUOIp9I-14">
-          <mxGeometry x="-0.4853" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-3" target="djuxfsMayVQm3gUOIp9I-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-18" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="djuxfsMayVQm3gUOIp9I-17">
-          <mxGeometry x="-0.0987" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-3" value="是否需要做GA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="182" y="224" width="100" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-4" target="djuxfsMayVQm3gUOIp9I-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-4" value="遍历所有可能的micro batch划分，利用贪心算法找到通信开销&lt;br&gt;最小的划分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="172" y="347" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-5" target="djuxfsMayVQm3gUOIp9I-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-5" value="划分后的图&lt;br&gt;与原图是否&lt;br&gt;逻辑上等价" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="168.5" y="433" width="127" height="93" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-6" target="djuxfsMayVQm3gUOIp9I-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-6" value="根据micro batch划分规则改变module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="172" y="564" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-13" target="djuxfsMayVQm3gUOIp9I-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-13" value="当前维度是否&lt;br&gt;需要切分数据" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="350" y="335" width="127" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-19" target="djuxfsMayVQm3gUOIp9I-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-19" value="生成数据的切分方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="457" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-21" target="djuxfsMayVQm3gUOIp9I-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="308" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="508" y="594" />
-              <mxPoint x="508" y="308" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-37" value="遍历所有&lt;br&gt;数据维度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="djuxfsMayVQm3gUOIp9I-34">
-          <mxGeometry x="-0.0273" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-21" value="根据数据的切分方案改变module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="564" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-23" target="djuxfsMayVQm3gUOIp9I-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-23" value="搜索流水线划分方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="671" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-25" target="djuxfsMayVQm3gUOIp9I-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-25" value="把micro batch划分&lt;br&gt;阶段生成的AllReduce&lt;br&gt;指令改为GA指令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="172" y="671" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-27">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="232" y="200" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="172" y="799" />
-              <mxPoint x="114" y="799" />
-              <mxPoint x="114" y="200" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-35" value="遍历所有&lt;br&gt;设备划分方案" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="djuxfsMayVQm3gUOIp9I-33">
-          <mxGeometry x="0.0394" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-27" target="djuxfsMayVQm3gUOIp9I-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-27" value="根据流水线划分方案&lt;br&gt;改变module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="172" y="778" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-41" value="返回符合内存限制&lt;br&gt;且通信开销最小的module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="172" y="879" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="djuxfsMayVQm3gUOIp9I-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-43" target="djuxfsMayVQm3gUOIp9I-44">
           <mxGeometry relative="1" as="geometry" />
