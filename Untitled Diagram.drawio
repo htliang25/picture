@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T08:22:16.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="U4w66PoL48j2g7jii6mm" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-25T08:32:27.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="DXFakpyPECRz1GAzaTjX" version="20.6.0" type="github" pages="2">
   <diagram id="nzBmkMPrk7mMpimpwruT" name="Page-1">
     <mxGraphModel dx="942" dy="621" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -162,18 +162,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6q84PyYSt9kQ3q8TxM9N" name="第 2 页">
-    <mxGraphModel dx="942" dy="621" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="942" dy="621" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="djuxfsMayVQm3gUOIp9I-92" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1333" y="206" width="175" height="303" as="geometry" />
+          <mxGeometry x="1639" y="190" width="175" height="303" as="geometry" />
         </mxCell>
         <mxCell id="djuxfsMayVQm3gUOIp9I-79" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1129" y="260" width="152" height="195" as="geometry" />
+          <mxGeometry x="1435" y="244" width="152" height="195" as="geometry" />
         </mxCell>
         <mxCell id="djuxfsMayVQm3gUOIp9I-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="933" y="260" width="152" height="195" as="geometry" />
+          <mxGeometry x="1239" y="244" width="152" height="195" as="geometry" />
         </mxCell>
         <mxCell id="djuxfsMayVQm3gUOIp9I-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-1" target="djuxfsMayVQm3gUOIp9I-2">
           <mxGeometry relative="1" as="geometry" />
@@ -296,7 +296,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="djuxfsMayVQm3gUOIp9I-43" value="Receives&amp;nbsp; Request" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1045.5" y="50" width="119" height="60" as="geometry" />
+          <mxGeometry x="1351.5" y="34" width="119" height="60" as="geometry" />
         </mxCell>
         <mxCell id="djuxfsMayVQm3gUOIp9I-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-44" target="djuxfsMayVQm3gUOIp9I-53">
           <mxGeometry relative="1" as="geometry" />
@@ -315,67 +315,61 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="djuxfsMayVQm3gUOIp9I-44" value="Generate &lt;br&gt;Device Split Proposals" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1045" y="146" width="120" height="60" as="geometry" />
+          <mxGeometry x="1351" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="djuxfsMayVQm3gUOIp9I-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-47" target="djuxfsMayVQm3gUOIp9I-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-47" value="Find &lt;br&gt;Micro Batch Split&lt;br&gt;Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="949" y="279" width="120" height="60" as="geometry" />
+        <mxCell id="djuxfsMayVQm3gUOIp9I-47" value="Find &lt;br&gt;Micro Batch Split&lt;br&gt;Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="263" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="djuxfsMayVQm3gUOIp9I-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-48" target="djuxfsMayVQm3gUOIp9I-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-48" value="Change Module Based On &lt;br&gt;Micro Batch Split &lt;br&gt;Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="949" y="377" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-64" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="782" y="741" width="139" height="179" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-66" target="djuxfsMayVQm3gUOIp9I-67">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="792" y="750" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="792" y="848" width="120" height="60" as="geometry" />
+        <mxCell id="djuxfsMayVQm3gUOIp9I-48" value="Change Module Based On &lt;br&gt;Micro Batch Split &lt;br&gt;Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="361" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="djuxfsMayVQm3gUOIp9I-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-53" target="djuxfsMayVQm3gUOIp9I-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-53" value="Find &lt;br&gt;Data Split&lt;br&gt;Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1145" y="279" width="120" height="60" as="geometry" />
+        <mxCell id="djuxfsMayVQm3gUOIp9I-53" value="Find &lt;br&gt;Data Split&lt;br&gt;Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1451" y="263" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="djuxfsMayVQm3gUOIp9I-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-54" target="djuxfsMayVQm3gUOIp9I-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-54" value="Change Module Based On &lt;br&gt;Data Split &lt;br&gt;Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1145" y="377" width="120" height="60" as="geometry" />
+        <mxCell id="djuxfsMayVQm3gUOIp9I-54" value="Change Module Based On &lt;br&gt;Data Split &lt;br&gt;Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1451" y="361" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="djuxfsMayVQm3gUOIp9I-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-70" target="djuxfsMayVQm3gUOIp9I-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-70" value="Search&lt;br&gt;Pipeline Split &lt;br&gt;Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1362" y="224" width="120" height="60" as="geometry" />
+        <mxCell id="djuxfsMayVQm3gUOIp9I-70" value="Search&lt;br&gt;Pipeline Split &lt;br&gt;Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1668" y="208" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="djuxfsMayVQm3gUOIp9I-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-71" target="djuxfsMayVQm3gUOIp9I-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-71" value="Change &lt;br&gt;AllReduce Instructions Generated In &lt;br&gt;Micro Batch Split To &lt;br&gt;GA Instructions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1346" y="311" width="152" height="93" as="geometry" />
+        <mxCell id="djuxfsMayVQm3gUOIp9I-71" value="Change &lt;br&gt;AllReduce Instructions Generated In &lt;br&gt;Micro Batch Split To &lt;br&gt;GA Instructions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1652" y="295" width="152" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="djuxfsMayVQm3gUOIp9I-72" value="Change Module Based On &lt;br&gt;Pipeline Split &lt;br&gt;Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1360.5" y="431" width="120" height="60" as="geometry" />
+        <mxCell id="djuxfsMayVQm3gUOIp9I-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="djuxfsMayVQm3gUOIp9I-72" target="djuxfsMayVQm3gUOIp9I-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="djuxfsMayVQm3gUOIp9I-72" value="Change Module Based On &lt;br&gt;Pipeline Split &lt;br&gt;Plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1666.5" y="415" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="djuxfsMayVQm3gUOIp9I-88" value="Gadient Accumulation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="966.5" y="469" width="85" height="30" as="geometry" />
+          <mxGeometry x="1272.5" y="453" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="djuxfsMayVQm3gUOIp9I-89" value="Data Split" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1162.5" y="467" width="85" height="30" as="geometry" />
+          <mxGeometry x="1468.5" y="445" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="djuxfsMayVQm3gUOIp9I-95" value="Pipeline Split" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1378" y="524" width="85" height="30" as="geometry" />
+          <mxGeometry x="1684" y="501" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="djuxfsMayVQm3gUOIp9I-96" value="Return&amp;nbsp;&lt;br&gt;Minimum Communication Cost Module &lt;br&gt;Filter By &lt;br&gt;Memory Constraint" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1873" y="300.5" width="156" height="82" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
