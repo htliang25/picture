@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T07:34:19.399Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="QCwqCDjVfOvLD2JPydnn" version="20.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-01-11T08:37:33.470Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Ba7QBQpf3VP5-XMI47fg" version="20.6.2" type="github" pages="3">
   <diagram id="nzBmkMPrk7mMpimpwruT" name="Page-1">
     <mxGraphModel dx="1739" dy="976" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -283,7 +283,7 @@
         <mxCell id="BH0IJDYKVkNMZP1wGWOm-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BH0IJDYKVkNMZP1wGWOm-7" target="BH0IJDYKVkNMZP1wGWOm-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BH0IJDYKVkNMZP1wGWOm-7" value="随机生成topk_idx" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BH0IJDYKVkNMZP1wGWOm-7" value="随机生成topk_idx&lt;br&gt;即bs每个token&lt;br&gt;选中的expert" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BH0IJDYKVkNMZP1wGWOm-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BH0IJDYKVkNMZP1wGWOm-9" target="BH0IJDYKVkNMZP1wGWOm-11">
@@ -322,8 +322,14 @@
         <mxCell id="BH0IJDYKVkNMZP1wGWOm-15" value="随机生成stored_models&lt;br&gt;并进行广播" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="390" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BH0IJDYKVkNMZP1wGWOm-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BH0IJDYKVkNMZP1wGWOm-18" target="BH0IJDYKVkNMZP1wGWOm-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BH0IJDYKVkNMZP1wGWOm-18" value="ensure_comm&lt;br&gt;获取nccl通信域，&lt;br&gt;用于自定义通信操作符" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="280" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BH0IJDYKVkNMZP1wGWOm-24" value="smart_fwd&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
