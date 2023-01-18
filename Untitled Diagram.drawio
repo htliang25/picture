@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T10:05:03.016Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="U7iqp7TyQ1XKiG2Pld-o" version="20.8.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-01-18T10:11:16.709Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="EWIUkfKPeF56f77IilCU" version="20.8.4" type="github" pages="3">
   <diagram id="nzBmkMPrk7mMpimpwruT" name="Page-1">
     <mxGraphModel dx="1747" dy="978" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -351,6 +351,9 @@
         </mxCell>
         <mxCell id="qYAv_WignJa36mamSxNx-41" value="fwd_batch_size = a1+a2+a3+a4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="440" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qYAv_WignJa36mamSxNx-42" value="local_input_buf&lt;br&gt;sorted token&lt;br&gt;tensor(32, 128)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
