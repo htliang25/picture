@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T13:47:56.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="mACeK4sPyXDm6WMM0z1I" version="20.6.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-24T13:49:32.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="RLv2ff73jVPPCWiKiV7e" version="20.6.0" type="github" pages="6">
   <diagram id="nzBmkMPrk7mMpimpwruT" name="Page-1">
     <mxGraphModel dx="1542" dy="868" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -1955,6 +1955,39 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-3pLo11rFvvfxVJvVjSw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-3pLo11rFvvfxVJvVjSw-4" target="-3pLo11rFvvfxVJvVjSw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-3pLo11rFvvfxVJvVjSw-4" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="186" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-3pLo11rFvvfxVJvVjSw-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="-3pLo11rFvvfxVJvVjSw-6" target="-3pLo11rFvvfxVJvVjSw-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-3pLo11rFvvfxVJvVjSw-6" value="选择基础分类器&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="186" y="257" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-3pLo11rFvvfxVJvVjSw-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="-3pLo11rFvvfxVJvVjSw-13" target="-3pLo11rFvvfxVJvVjSw-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-3pLo11rFvvfxVJvVjSw-13" value="按照随机数&lt;br&gt;种子生成编码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="182.63" y="349" width="126.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-3pLo11rFvvfxVJvVjSw-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="-3pLo11rFvvfxVJvVjSw-16" target="-3pLo11rFvvfxVJvVjSw-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-3pLo11rFvvfxVJvVjSw-16" value="训练集成模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="182.5" y="436" width="127" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-3pLo11rFvvfxVJvVjSw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-3pLo11rFvvfxVJvVjSw-18" target="-3pLo11rFvvfxVJvVjSw-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-3pLo11rFvvfxVJvVjSw-18" value="预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="525" width="122" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-3pLo11rFvvfxVJvVjSw-19" value="输出结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="186" y="617" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
