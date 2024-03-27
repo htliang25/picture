@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T19:30:26.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="SPuRe-t9TNp28Gdclgnl" version="24.0.7" type="github" pages="30">
+<mxfile host="app.diagrams.net" modified="2024-03-27T19:33:47.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="zSjf273GLoKHWCKsm7YZ" version="24.0.7" type="github" pages="30">
   <diagram id="nzBmkMPrk7mMpimpwruT" name="Page-1">
     <mxGraphModel dx="1562" dy="875" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -6450,6 +6450,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-3" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;优化多分类编码模型的性能与效率&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="498" y="161" width="500" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
