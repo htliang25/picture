@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T19:33:47.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="zSjf273GLoKHWCKsm7YZ" version="24.0.7" type="github" pages="30">
+<mxfile host="app.diagrams.net" modified="2024-03-28T03:52:42.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="sGzpngD2reerVp7rvwlC" version="24.0.7" type="github" pages="30">
   <diagram id="nzBmkMPrk7mMpimpwruT" name="Page-1">
     <mxGraphModel dx="1562" dy="875" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -6446,12 +6446,108 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1oTOBcqn-D-nkHJgn5Kc" name="第 30 页">
-    <mxGraphModel dx="1562" dy="875" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="1" shadow="0">
+    <mxGraphModel dx="1838" dy="1029" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zgHhpjxv-K6YUTpmij6B-3" target="zgHhpjxv-K6YUTpmij6B-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zgHhpjxv-K6YUTpmij6B-3" target="zgHhpjxv-K6YUTpmij6B-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zgHhpjxv-K6YUTpmij6B-3" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;优化多分类编码模型的性能与效率&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="498" y="161" width="500" height="60" as="geometry" />
+          <mxGeometry x="498" y="161" width="649" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zgHhpjxv-K6YUTpmij6B-5" target="zgHhpjxv-K6YUTpmij6B-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;基于数据编码策略模型&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;分类效率不高&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="498" y="266" width="292" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zgHhpjxv-K6YUTpmij6B-7" target="zgHhpjxv-K6YUTpmij6B-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;如何提升模型的分类效率&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;且分类准确率无明显下降&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#adcdf5;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="498" y="384" width="292" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zgHhpjxv-K6YUTpmij6B-8" target="zgHhpjxv-K6YUTpmij6B-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-8" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;基于样本平均决策路径长度&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;的编码优化方法&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#78abf2;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="498" y="503" width="292" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zgHhpjxv-K6YUTpmij6B-10" target="zgHhpjxv-K6YUTpmij6B-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;降低决策树的&lt;/font&gt;&lt;span style=&quot;font-size: 20px; background-color: initial;&quot;&gt;结构复杂度&lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="508.5" y="627.5" width="271" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-11" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;第三章&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#78abf2;" vertex="1" parent="1">
+          <mxGeometry x="584" y="725.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zgHhpjxv-K6YUTpmij6B-12" target="zgHhpjxv-K6YUTpmij6B-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;基于基础学习器编码策略模型&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;难以发挥基础学习器的学习能力&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="855" y="266" width="292" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zgHhpjxv-K6YUTpmij6B-13" target="zgHhpjxv-K6YUTpmij6B-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-13" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;如何选择切分策略使得生成数据更适合基础学习器学习&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#adcdf5;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="855" y="384" width="292" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zgHhpjxv-K6YUTpmij6B-14" target="zgHhpjxv-K6YUTpmij6B-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;基于树编辑距离的编码优化方法&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#78abf2;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="855" y="503" width="292" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zgHhpjxv-K6YUTpmij6B-15" target="zgHhpjxv-K6YUTpmij6B-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;提升决策树之间的&lt;/font&gt;&lt;span style=&quot;font-size: 20px; background-color: initial;&quot;&gt;结构多样性&lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="865" y="627.5" width="272" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-16" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;第四章&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#78abf2;" vertex="1" parent="1">
+          <mxGeometry x="941" y="725.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-29" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=90;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="328" y="281" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-30" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;现存&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;难点&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="358.5" y="288" width="69" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-33" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=90;fillColor=#adcdf5;" vertex="1" parent="1">
+          <mxGeometry x="328" y="399" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-34" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;现存&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;难点&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="358.5" y="406" width="69" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-35" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=90;fillColor=#78abf2;" vertex="1" parent="1">
+          <mxGeometry x="328" y="516" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-36" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;现存&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;难点&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="358.5" y="523" width="69" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-37" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=90;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="336.5" y="626" width="113" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-38" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;关键&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;技术&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="358.5" y="632.5" width="69" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-39" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=90;fillColor=#78abf2;" vertex="1" parent="1">
+          <mxGeometry x="336.5" y="724" width="113" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-40" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;关键&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;技术&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="358.5" y="730.5" width="69" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-43" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="351.5" y="172" width="83" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zgHhpjxv-K6YUTpmij6B-44" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;研究&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;目标&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="358.5" y="169" width="69" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
